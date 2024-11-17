@@ -1,0 +1,277 @@
+.head{
+    background-color:rgb(131, 222, 221);
+    display: flex;
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    justify-content: center;
+}
+#skills{
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+    margin: 70px;
+    color: azure;
+    margin-bottom: 5%;
+}
+.img{
+    margin-left: 15%;
+    margin-bottom: -20%;
+}
+
+#skele{
+    border: 2px solid black;
+    border-radius: 30px;
+    margin: 4px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.profile{
+    background-color: rgb(244, 205, 153);
+    font-size: 20px;
+    font-family: cursive;
+    border: 2px solid rgb(255, 175, 71);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 14px;
+    margin-top: -2%;
+    margin-bottom: 9%;
+    margin-left: 50%;
+    margin-right: 15%;
+}
+.profile2{
+    background-color: antiquewhite;
+    font-size: 20px;
+    font-family: cursive;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    margin-top: -20%;
+    margin-bottom: 1%;
+    margin-left: 55%;
+    margin-right: 10%;
+    transition-duration: 0.5s;
+}
+.profile2:hover{
+    cursor: pointer;
+    transform: translateX(20px);
+    box-shadow: 7px 12px 12px rgba(0, 0, 0, 0.7);
+}
+.profile3{
+    background-color: antiquewhite;
+    font-size: 20px;
+    font-family: cursive;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    margin-top: -18%;
+    margin-bottom: 1%;
+    margin-left: 10%;
+    margin-right: 55%;
+    transition-duration: 0.5s;
+}
+.profile3:hover{
+    cursor: pointer;
+    transform: translateX(-20px);
+    box-shadow: 7px 12px 12px rgba(0, 0, 0, 0.7);
+}
+.profile4{
+    background-color: antiquewhite;
+    font-size: 20px;
+    font-family: cursive;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    margin-top: -20%;
+    margin-bottom: 1%;
+    margin-left: 55%;
+    margin-right: 10%;
+    transition-duration: 0.5s;
+}
+.profile4:hover{
+    cursor: pointer;
+    transform: translateX(20px);
+    box-shadow: 7px 12px 12px rgba(0, 0, 0, 0.7);
+}
+.profile5{
+    background-color: antiquewhite;
+    font-size: 20px;
+    font-family: cursive;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    margin-top: -20%;
+    margin-bottom: 1%;
+    margin-left: 10%;
+    margin-right: 55%;
+    transition-duration: 0.5s;
+}
+.profile5:hover{
+    cursor: pointer;
+    transform: translateX(-20px);
+    box-shadow: 7px 12px 12px rgba(0, 0, 0, 0.7);
+}
+#contact{
+    background-color: #f1f2f6;
+    border-bottom: 2px;
+    border-radius: 16px;
+    border: 100%;
+    padding: 0%;
+    margin-bottom: 2%;
+}
+
+#sk{
+    font-size: 30px;
+    border: 2px solid rgb(231, 231, 231);
+    border-radius: s5px;
+    font-family: cursive;
+    transition-duration: 0.3s;
+}
+#sk:hover{
+    background-color: black;
+    color: whitesmoke;
+    cursor: pointer;
+}
+.container{
+    margin: 2px;
+    padding: 10px;
+    border: 20px;
+    padding-bottom: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 10%;
+    font-size: 20px;
+    border-radius: 15px;
+    background-color: aliceblue;
+}
+
+.nav{
+    border: 20px;
+    padding: -5px;
+    background-color: #FFFFF0;
+    border-radius: 20px;
+    margin-top:1%;
+    margin-bottom: 12%;
+    margin-left: 35%;
+    margin-right: 35%;
+    
+}
+.navelement{
+    display: inline-flex;
+    margin-left: -5px;
+    justify-content: space-evenly;
+    font-family: cursive;
+    padding: 10px;
+    background-color: FFFFF0;
+    color: black;
+    transition-duration: 0.7s;
+}
+.navelement:hover{
+    background-color: #aa9fff;
+    border-bottom: 3px solid black;
+    color: black;
+    cursor: pointer;
+}
+.time{
+    text-align: center;
+    color: azure;
+    font-size: 50px;
+    font-family: cursive;
+    margin: 70px;
+    margin-bottom: 5%;
+}
+#line{
+    text-align: center;
+    margin: -5px;
+}
+#schl{
+    justify-content: center;
+    text-align: center;
+}
+#intern{
+    text-align: center;
+    color: azure;
+    margin-top: 10%;
+    font-family: cursive;
+    font-size: 50px;
+}
+.int1{
+    background-color: #cce5ec;
+    font-size: 20px;
+    font-family: cursive;
+    border: 2px solid rgb(105, 26, 26);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    margin-top: 8%;
+    margin-bottom: 1%;
+    margin-left: 3%;
+    margin-right: 68%;
+    transition-duration: 0.5s;
+}
+.int1:hover{
+    position:sticky;
+    cursor: pointer;
+    transform: translateY(20px);
+    box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.7);
+}
+.int2{
+    background-color: #cce5ec;
+    font-size: 20px;
+    font-family: cursive;
+    border: 2px solid rgb(105, 26, 26);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    margin-top: -17%;
+    margin-bottom: 10%;
+    margin-left: 37%;
+    margin-right: 36%;
+    transition-duration: 0.5s;
+}
+.int2:hover{
+    position:sticky;
+    cursor: pointer;
+    transform: translateY(20px);
+    box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.7);
+}
+.int3{
+    background-color: #cce5ec;
+    font-size: 20px;
+    font-family: cursive;
+    border: 2px solid rgb(105, 26, 26);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    margin-top: -26%;
+    margin-bottom: 10%;
+    margin-left: 70%;
+    margin-right: 3%;
+    transition-duration: 0.5s;
+}
+.int3:hover{
+    position:sticky;
+    cursor: pointer;
+    transform: translateY(20px);
+    box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.7);
+}
+#con{
+    margin-left: 4%;
+    font-family: cursive;
+    margin-top: 2%;
+}
+.mail{
+    margin-left: 70%;
+    font-family: cursive;
+}
+#foot{
+    text-align: center;
+    font-family: initial;
+    margin-top: 2%;
+    margin-bottom: 1px;
+    color: gray;
+}
